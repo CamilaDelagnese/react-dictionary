@@ -16,7 +16,7 @@ function search(event){
     
 
 
-let apiUrl=`https://api.dictionaryapi.dev/api/v2/entries/en_us/${Keyword}`;
+let apiUrl=`https://api.dictionaryapi.dev/api/v2/entries/en_US/${Keyword}`;
 axios.get(apiUrl).then(handleResponse);
 }
 
