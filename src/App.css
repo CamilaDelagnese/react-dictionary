@@ -1,8 +1,20 @@
+.body {
+  background: lightpink;
+}
+
+
+
 .App-header {
+  text-align: center;
   margin: 30px 0;
+  font-size: 50px;
+  font-family: fantasy;
+  color: darkmagenta;
+  
 }
 
 .App-footer {
   text-align: center;
   margin: 30px 0;
+  font-family: fantasy;
 }
