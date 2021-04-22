@@ -1,22 +1,26 @@
-.body {
-  background: lavender;
+body{
+  background-color:  lavenderblush;
 }
 
-.a {
-  color:rgb(241, 113, 192)
+
+.App {
+   max-width:960px ;
+   margin: 0 auto;
 }
 
-.App-header {
-  text-align: center;
-  margin: 30px 0;
-  font-size: 50px;
-  font-family: fantasy;
-  color: darkmagenta;
+.App-header{
+  margin:20px 0 auto;
   
+  font-size: 50px;
+
 }
 
-.App-footer {
+.App footer{
   text-align: center;
-  margin: 30px 0;
-  font-family: fantasy;
+  margin-top: 20px;
+  font-size: 13px;
+}
+
+.App a {
+  color: black;
 }

@@ -3,7 +3,7 @@
   }
   
   .Phonetic a {
-    border: 1px solid #ddd;
+    border: 1px solid blueviolet;
     text-decoration: none;
     padding: 8px 15px;
     font-size: 13px;
@@ -19,6 +19,7 @@
   }
   
   .Phonetic .text {
+    color:black;
     opacity: 0.5;
     font-weight: bold;
   }
