@@ -1,8 +1,10 @@
 .body {
-  background: lightpink;
+  background: lavender;
 }
 
-
+.a {
+  color:rgb(241, 113, 192)
+}
 
 .App-header {
   text-align: center;
